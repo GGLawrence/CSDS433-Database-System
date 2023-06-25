@@ -12,9 +12,6 @@ stores, Parallel Databases, Distributed Databases, Cloud‐Based Databases.
 Paper presentations and critiquing.
 Experience in project design (survey of a research area, identifying a research problem, developing it as much as possible), report writing (project proposal, progress report, and final project report), demonstration and presentation, as well as experience in working in groups.
 
-
-* No Collaboration is allowed for Exams and Survey Projects. R&D Projects can be done in groups.
-
 Topics to be covered (tentative list—detailed Weekly Coverage will be posted)
 Review of RA, SQL, and relational query optimization (Chapters 3‐6, 12‐13 of SKS, chapters 2‐6,15‐16 of GMUW all very briefly)
 Review of Semistructured Data,  XML, XPath/XQuery (Chapters 11‐12 of GMUW, Chapter 23 of SKS), RDF/SPARQL;
